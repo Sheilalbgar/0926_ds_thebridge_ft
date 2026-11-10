@@ -1,0 +1,45 @@
+sector,forma,accidentes
+Agrario,"Contacto eléctrico, con fuego, temperaturas o sustancias peligrosas",803
+Industria,"Contacto eléctrico, con fuego, temperaturas o sustancias peligrosas",5576
+Construcción,"Contacto eléctrico, con fuego, temperaturas o sustancias peligrosas",3490
+Servicios,"Contacto eléctrico, con fuego, temperaturas o sustancias peligrosas",12251
+Agrario,"Ahogamiento, quedar sepultado, quedar envuelto",47
+Industria,"Ahogamiento, quedar sepultado, quedar envuelto",223
+Construcción,"Ahogamiento, quedar sepultado, quedar envuelto",227
+Servicios,"Ahogamiento, quedar sepultado, quedar envuelto",385
+Agrario,"Golpe contra un objeto inmóvil, trabajador en movimiento",9239
+Industria,"Golpe contra un objeto inmóvil, trabajador en movimiento",23170
+Construcción,"Golpe contra un objeto inmóvil, trabajador en movimiento",24549
+Servicios,"Golpe contra un objeto inmóvil, trabajador en movimiento",95695
+Agrario,"Choque o golpe contra un objeto en movimiento, colisión con",5172
+Industria,"Choque o golpe contra un objeto en movimiento, colisión con",23996
+Construcción,"Choque o golpe contra un objeto en movimiento, colisión con",16171
+Servicios,"Choque o golpe contra un objeto en movimiento, colisión con",52841
+Agrario,"Contacto con agente material cortante, punzante, duro",3514
+Industria,"Contacto con agente material cortante, punzante, duro",15799
+Construcción,"Contacto con agente material cortante, punzante, duro",11362
+Servicios,"Contacto con agente material cortante, punzante, duro",31313
+Agrario,"Quedar atrapado, ser aplastado, sufrir una amputación",1272
+Industria,"Quedar atrapado, ser aplastado, sufrir una amputación",6987
+Construcción,"Quedar atrapado, ser aplastado, sufrir una amputación",2901
+Servicios,"Quedar atrapado, ser aplastado, sufrir una amputación",11229
+Agrario,"Sobreesfuerzo, trauma psíquico, radiaciones, ruido, etc.",5948
+Industria,"Sobreesfuerzo, trauma psíquico, radiaciones, ruido, etc.",30650
+Construcción,"Sobreesfuerzo, trauma psíquico, radiaciones, ruido, etc.",21136
+Servicios,"Sobreesfuerzo, trauma psíquico, radiaciones, ruido, etc.",94437
+Agrario,"Mordeduras, patadas, etc. (de animales o personas)",917
+Industria,"Mordeduras, patadas, etc. (de animales o personas)",507
+Construcción,"Mordeduras, patadas, etc. (de animales o personas)",385
+Servicios,"Mordeduras, patadas, etc. (de animales o personas)",8869
+Agrario,"Infartos, derrames cerebrales y otras causas estrictamente naturales",53
+Industria,"Infartos, derrames cerebrales y otras causas estrictamente naturales",199
+Construcción,"Infartos, derrames cerebrales y otras causas estrictamente naturales",152
+Servicios,"Infartos, derrames cerebrales y otras causas estrictamente naturales",775
+Agrario,Accidentes de tráfico,289
+Industria,Accidentes de tráfico,1326
+Construcción,Accidentes de tráfico,1745
+Servicios,Accidentes de tráfico,17306
+Agrario,Otra forma o contacto,48
+Industria,Otra forma o contacto,357
+Construcción,Otra forma o contacto,156
+Servicios,Otra forma o contacto,619
